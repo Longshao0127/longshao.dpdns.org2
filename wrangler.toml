@@ -1,6 +1,6 @@
-name = "longshao-dpdns-org2"
+name = "longshaodpdnsorg"
 main = "_worker.js"
-type = "javascript"
+compatibility_date = "2026-09-11"
 
 [env.production]
-name = "longshao-dpdns-org2"
+name = "longshaodpdnsorg"
