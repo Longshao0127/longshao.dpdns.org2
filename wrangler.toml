@@ -1,0 +1,6 @@
+name = "longshao-dpdns-org2"
+main = "_worker.js"
+type = "javascript"
+
+[env.production]
+name = "longshao-dpdns-org2"
